@@ -21,4 +21,4 @@
  ```python=
 import os
 print("hello")
-:grimacing::grimacing::grimacing:
+:grimacing:
