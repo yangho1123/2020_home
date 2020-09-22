@@ -11,4 +11,6 @@
 1
 2
 ```
-[![nkust](https://github.com/yangho1123/2020_home/blob/master/Googlelogo2015sd.jpg)](https://www.youtube.com/watch?v=bCB_nIdN86s "Everything Is AWESOME")
+![NKFUST](nkfust.jpg "第一科大")
+
+[![special](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=bCB_nIdN86s "Everything Is AWESOME")
