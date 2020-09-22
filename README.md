@@ -8,8 +8,8 @@
 `small zone`
 
 ```big zone
-1
-2
+>1
+>>2
 ```
 ![NKFUST](Googlelogo2015sd.jpg "google")
 
