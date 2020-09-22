@@ -18,4 +18,4 @@
 - [ ] todo list
 - [x] done
 
- : bangbang :
+ :bangbang:
