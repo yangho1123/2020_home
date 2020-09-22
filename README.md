@@ -13,4 +13,4 @@
 ```
 ![NKFUST](Googlelogo2015sd.jpg "google")
 
-[![special](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=bCB_nIdN86s "Everything Is AWESOME")
+[![special](https://img.youtube.com/vi/bCB_nIdN86s/0.jpg)](https://www.youtube.com/watch?v=bCB_nIdN86s "Everything Is AWESOME")
