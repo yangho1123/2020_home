@@ -17,4 +17,7 @@
 
 - [ ] todo list
 - [x] done
-
+function myFunction(f1,f2){
+     println(f1,f2)
+}
+:bangbang:
