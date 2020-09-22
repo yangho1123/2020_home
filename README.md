@@ -8,10 +8,10 @@
 `small zone`
 
 ```big zone
->1
->>2
+1
+2
 ```
-![NKFUST](Googlelogo2015sd.jpg "google")
+![Google](Googlelogo2015sd.jpg "google")
 
 [![special](https://img.youtube.com/vi/bCB_nIdN86s/0.jpg)](https://www.youtube.com/watch?v=bCB_nIdN86s "Everything Is AWESOME")
 
@@ -19,9 +19,11 @@
 - [x] done
 
 
- ```python=
-import os
-print("hello")
+ ```js
+$scope.cookieGet = function(key){
+  $scope.cookieResult = $cookieStore.get(key);
+  console.log($scope.cookieResult);
+ }
 ```
 
-:grimacing:
+:grimacing:  :expressionless:
