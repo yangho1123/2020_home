@@ -9,7 +9,7 @@
 * 粗體  
 <http://tw.yahoo.com>
 
-[quiz]("Markdown Quiz")
+[quiz](/quiz/ Markdown Quiz)
 
 `small zone`
 
